@@ -30,14 +30,14 @@ Flutter library to load and cache network images. Can also be used with placehol
 7. [webview_flutter](https://pub.dev/packages/webview_flutter)
  Flutter library to read the Android Platform Views section below to choose the platform view mode that best suits your needs
  ## Feature
-Easy login & registration
-Easy logout & update
-User-friendly product filtering and sorting
-Detailed product descriptions
-product favourites
-Product gallery
-Presenting your products with Augmented Reality
-Shopping cart
+- [X] Easy login & registration
+- [X] Easy logout & update
+- [X] User-friendly product filtering and sorting
+- [X] Detailed product descriptions
+- [X] product favourites
+- [X] Product gallery
+- [X] Presenting your products with Augmented Reality
+- [X] Shopping cart
 ## Setup
 
   ##### Clone the repository
